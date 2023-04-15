@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;    
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: rgb(3, 3, 3);
+    font-family: 'Merriweather', serif;
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Merriweather', serif;
+    font-size: 50px
+    
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-family: 'Merriweather', serif; 
+    font-size: 30px;
+}
+.localnike{
+    display: flex;
+    justify-self: center;
+    width: 100%;
+}
+
+label{
+    color: white;
+    font-size: 26px;
+}
+footer{
+    color: white;
+}
+div{
+    color: white;
+}
+.imgredes {
+    width: 60px;
+    display: flex;
+    margin-left: 125px;
+   
+}
+h2{
+    color: rgb(245, 245, 245)
+}
+
+.card{
+    background-color: rgb(25, 167, 206);
+        display: flex;
+        justify-content: center;
+        max-width: 100%;
+       margin: 70px 0px;
+       padding: 0px auto;
+       width: 350px;
+       height: 200px;
+       border:solid 5px rgb(20, 108, 148);
+    }
+.cardimg{
+    width: 300px; 
+}
+.logonike{
+    width: 120px;
+}
+.menuproductos li{
+    display: inline-block;
+    margin-right: 200px;
+    font-size: 23px;
+    }
+    
+    a{
+        color: rgb(10, 10, 10);
+        text-decoration:none;
+    }    
+.oferta{
+    position: absolute;
+    top: 0px;
+    left: 350px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 5, 5);
+}
+header{
+    background-color: rgb(246, 241, 241);
+    width: 100%;
+}
+.fondo{
+  width: 100%
+  }
+  .nikegaleria{
+    width: 500px;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  body{
+   background-color: rgb(255, 191, 155);
+   font-family: 'Merriweather', serif;
+    }
+
+  .banner{
+    width: 100vm;
+    height: 100vm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/img/fotofondodepantalla-PhotoRoom.png-PhotoRoom.png);
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(255, 191, 155);
+    font-family: 'Merriweather', serif;
+    }
+
+
+  
+  .bannertexto{
+    color: rgb(0, 0, 0);
+    font-family: 'Merriweather', serif;
+  }
+  
+p{
+    font-size: 100px;
+    text-align: center;
+}
