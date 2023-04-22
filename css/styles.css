@@ -128,3 +128,25 @@ p{
     font-size: 100px;
     text-align: center;
 }
+
+@media (min-width: 900px) {
+    #carouselExample{
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .carousel-item img {
+    height: 550px;
+}
+    
+
+}
+
+@media (min-width: 768px) {
+    .fondo {
+        display: grid;
+    
+    } 
+
+}
+
