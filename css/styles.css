@@ -150,3 +150,8 @@ p{
 
 }
 
+@media (min-widht: 900px){
+    .fondo img {
+        height: 550px;
+    }
+}
